@@ -21,7 +21,7 @@ medical imaging. On the side I am building an on-premise retrieval system for co
   containerized with Docker, deployed on AWS (ECR and S3), build and release automated
   with GitHub Actions. → <[git@github.com:Tomg79/Masterthesis-Leishmania-Prediction-with-Diffusion-Transformer-Model-plus-MLOps.gi](https://github.com/Tomg79/Masterthesis-Leishmania-Prediction-with-Diffusion-Transformer-Model-plus-MLOps.git)>
 - **Sphenoid sinus segmentation for biometric identification.** 3D nnU-Net, ResNet and YOLO
-  on CT data. Co-authored publication (ProfIT AI 2025). → <Link>
+  on CT data. Co-authored publication (ProfIT AI 2025). → <https://ceur-ws.org/Vol-4164/short11.pdf>
 - **Anemia detection from smartphone images.** YOLO for nail-region detection plus a CNN
   for hemoglobin estimation.
 
