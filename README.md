@@ -12,7 +12,7 @@ medical imaging. On the side I am building an on-premise retrieval system for co
   SharePoint, POSIX, SQL GRANT) directly from the data and answers each user only what
   they are allowed to see. Runs fully local with LlamaIndex, Ollama and Qdrant. Built in
   Python with a deterministic permission layer and a test suite.
-  → <Link EKA-Repo>
+  → <[Link EKA-Repo](https://github.com/Tomg79/eka-enterprise-rag.git)>
 
 **Selected projects**
 
